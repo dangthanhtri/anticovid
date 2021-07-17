@@ -1989,6 +1989,10 @@ input, select, textarea {
 					padding: 0em 0em 0em 0em;
 				}
 
+				#main > #map {
+					padding: 0em 0em 0em 0em;
+				}
+
 			}
 
 			#main > .panel.intro {
