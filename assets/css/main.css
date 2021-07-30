@@ -1780,7 +1780,7 @@ input, select, textarea {
 			position: relative;
 			display: inline-block;
 			color: #ffffff;
-			width: 0.7em;
+			width: 0.5em;
 			height: 0.7em;
 			line-height: 0.9em;
 			font-size: 2.5em;
@@ -1975,6 +1975,10 @@ input, select, textarea {
 
 				#main > .panel {
 					padding: 2em 1.5em 1.5em 1.5em;
+				}
+
+				#main > #vacxin {
+					padding: 0em 0em 0em 0em;
 				}
 
 				#main > #work {
